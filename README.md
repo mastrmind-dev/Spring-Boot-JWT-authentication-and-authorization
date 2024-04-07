@@ -31,7 +31,7 @@ The project contains the following main components:
 
 ## Setup and Running
 
-To run this project, you need to have Java and Gradle installed on your machine.
+To run this project, you need to have Java and Gradle installed on your machine. IntelliJ IDEA is recommended as the IDE for running the application.
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory in your terminal.
