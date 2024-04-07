@@ -1,6 +1,6 @@
 # Spring JWT Security Project
 
-This project is a simple implementation of JWT (JSON Web Token) authentication using Spring Boot.
+This project is an implementation of JWT (JSON Web Token) authentication using Spring Boot.
 
 ## Technologies Used
 
